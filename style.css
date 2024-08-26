@@ -403,8 +403,9 @@ footer p{
 text-align: center;
 }
 
-.mypic{
+.mypic {
     width: 350px;
-    height:300px;
-    border-radius:50%;
+    height: 350px;
+    border-radius: 50%;
+    border: 5px solid #d3d3d3; /* Replace #ff6600 with your desired color code */
 }
