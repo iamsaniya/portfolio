@@ -8,9 +8,7 @@
 .about-containers{
     flex-wrap: wrap;
 }
-#hamburger-nav{
-    display: flex;
-}  
+
 }
 
 

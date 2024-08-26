@@ -178,10 +178,10 @@ section{
     text-align: center;
 }
 
-#socials-container{
+#socials_container{
     display: flex;
     justify-content: center;
-    margin-top: 1rem;
+    margin-top:1rem;
     gap:1rem;
 }
 
@@ -255,6 +255,7 @@ section{
 .about-pic{
     border-radius: 2rem;
     height: 350px;
+    width: 375px;
    
 }
 
@@ -400,4 +401,10 @@ footer{
 }
 footer p{
 text-align: center;
+}
+
+.mypic{
+    width: 350px;
+    height:300px;
+    border-radius:50%;
 }
